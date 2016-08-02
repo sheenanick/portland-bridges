@@ -1,0 +1,30 @@
+body {
+  background-color: #ffe6e6;
+  font-family: sans-serif;
+}
+img {
+  display: block;
+  width: 300px;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+a {
+  color: #993366;
+  text-decoration: none;
+}
+a:visited {
+  color: #d98cb3;
+  text-decoration: none;
+}
+a:hover {
+  color: #391326;
+  text-decoration: none;
+}
