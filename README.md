@@ -6,8 +6,7 @@ _A webpage providing historical information about the St. Johns, Steel, and Frem
 ## Setup/Installation Requirements
 * _Internet connection_
 * _Web browser_
-* _Eyeballs_
-_--_
+* _Eyeballs_  
 ## Known Bugs
 _There are no known bugs at this time._
 ## Support and Contact Details
@@ -15,5 +14,5 @@ _Please report at issues or bugs to katrina.hirsch@gmail.com._
 ## Technologies Used
 _HTML, Atom._
 ### License
-*This website is licensed under the MIT license.*
+*This website is licensed under the MIT license.*  
 Copyright (c) 2016 _**Katrina Hirsch and Megan Kaluza**_
