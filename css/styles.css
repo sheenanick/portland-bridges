@@ -28,3 +28,10 @@ a:hover {
   color: #391326;
   text-decoration: none;
 }
+.more-info {
+  font-weight: bold;
+}
+
+.intro {
+  font-style: italic;
+}
